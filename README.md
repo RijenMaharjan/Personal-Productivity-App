@@ -1,3 +1,5 @@
+# Used AntiGravity tool for help on coding
+
 # Personal Productivity App
 
 A full-stack Personal Productivity App featuring Tasks, Habits, and Notes. It uses a React + Vite frontend styled with Tailwind CSS, and a Node.js + Express backend powered by SQLite.
